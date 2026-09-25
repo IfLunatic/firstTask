@@ -1,0 +1,14 @@
+C:\uni\First task\CSharp\bin\Release\net8.0\CSharp.exe
+C:\uni\First task\CSharp\bin\Release\net8.0\CSharp.deps.json
+C:\uni\First task\CSharp\bin\Release\net8.0\CSharp.runtimeconfig.json
+C:\uni\First task\CSharp\bin\Release\net8.0\CSharp.dll
+C:\uni\First task\CSharp\bin\Release\net8.0\CSharp.pdb
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.AssemblyInfo.cs
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.dll
+C:\uni\First task\CSharp\obj\Release\net8.0\refint\CSharp.dll
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.pdb
+C:\uni\First task\CSharp\obj\Release\net8.0\CSharp.genruntimeconfig.cache
+C:\uni\First task\CSharp\obj\Release\net8.0\ref\CSharp.dll
